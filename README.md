@@ -1,4 +1,4 @@
-# Sentiment analysis and toxic language classifier in MMA tweet, use Logistic Regression Model
+# Classification of Mixed Martial Arts' Tweets using Logistic Regression
 This is my graduate project from the Department of Data Science at the University of Glasgow.
 
 There are three part of this project:
