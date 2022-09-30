@@ -10,7 +10,7 @@ There are three part of this project:
 
 
 ## Twitter_Sentiment_Analysis_with_MMA_Data
-* Use Sentiment140 from Stanford University to train three different model: Bernoulli Naive Bayes, Linear Support Vector, and Logistic Regression
+* Use Sentiment140 from Stanford University to train three different model: Bernoulli Naive Bayes, Linear Support Vector Classification, and Logistic Regression
 * Logistic regression (LR) was chosen as our binary classification model based on accuracy.
 * Binary classification with the labels: Positive, Negative.
 * Our MMA dataset was applied to the LR model to obtain binary classification data set.
