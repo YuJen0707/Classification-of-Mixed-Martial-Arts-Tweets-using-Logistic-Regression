@@ -15,14 +15,14 @@ There are three part of this project:
 * Binary classification with the labels: Positive, Negative.
 * Our MMA dataset was applied to the LR model to obtain binary classification data set.
 
-## Classifying Multi-label Comments with Logistic Regression
+## Multi-label Classification of Comments using Logistic Regression
 * Wikipedia comments were used to train a multi-classification model. The dataset is under CC0, with the underlying comment text being governed by Wikipedia's CC-SA-3.0.
 * Using LR as a baseline model for multiple classification. 
 * The categories of multiple classification: toxic, severe_toxic, obscene, threat, insult, and identity_hate
 * Apply the binary classification data set of the baseline model to get the 
 
 
-### This project draws on the following resources:
+### The project utilized the following resources:
 * https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge
 * https://www.kaggle.com/datasets/kazanova/sentiment140
 
