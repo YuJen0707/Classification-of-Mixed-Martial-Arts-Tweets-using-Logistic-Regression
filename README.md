@@ -3,7 +3,7 @@ This is my graduate project from the Department of Data Science at the Universit
 
 There are three part of this project:
 
-## MMA_Tweet_snscrape
+## MMA_Tweet_SNScrape
 * Use snscrape to collect the specific data from tweet.
 * This project select the Biggest Pay-Per-View Events in UFC History, which is Khabib Nurmagomedov vs. Conor McGregor - UFC279
 * The search keywords are: "ufc229 OR ufc OR TheNotoriousMMA OR TeamKhabib"; time: "since:2018-08-23, until:2018-10-07"; language: "English"
